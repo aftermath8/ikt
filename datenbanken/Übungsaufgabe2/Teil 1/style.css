@@ -1,0 +1,14 @@
+header {
+  border: solid;
+  border-color: lightblue;
+  background : lightblue;
+  padding: 3px;
+}
+section {
+  border: 1px solid;
+  border-color: lightblue;
+  padding: 5px;
+}
+footer{
+  background: lightblue;
+}
